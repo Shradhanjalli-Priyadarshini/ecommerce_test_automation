@@ -1,0 +1,6 @@
+
+Launching browser at: https://www.saucedemo.com/
+No JS alert appeared after login.
+✅ Added Sauce Labs Backpack to cart
+🛒 Opened cart page
+✅ Clicked Checkout button
